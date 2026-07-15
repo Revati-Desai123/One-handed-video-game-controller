@@ -16,7 +16,7 @@ and works as a plug-and-play HID device — no drivers needed!!
 - Breadboard and jumper wires
 
 ## Circuit
-![Circuit pic!!](circuit_pic.jpg)
+![Circuit pic!!](circuitPic.png)
 
 ## How to Use
 1. Upload the code to Arduino Leonardo
@@ -128,6 +128,6 @@ redState = false;
 }
 ```
 ## Media
-![Project pic!!](controller_pic.jpeg)
+![Project pic!!](controllerPic.jpeg)
 ## Demo
 [Watch live Demo on YouTube!!](https://www.youtube.com/shorts/mtXVW7fpkCw)
