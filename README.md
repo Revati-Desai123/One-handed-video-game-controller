@@ -1,3 +1,4 @@
+
 # One-handed-video-game-controller
 An accessible, ergonomic one-handed game controller built with Arduino Leonardo. 
 Designed for individuals with limited hand mobility, it connects to a PC via USB 
@@ -16,7 +17,7 @@ and works as a plug-and-play HID device — no drivers needed!!
 - Breadboard and jumper wires
 
 ## Circuit
-![Circuit pic!!](circuitPic.png)
+<img width="1279" height="707" alt="Screenshot 2026-07-15 001621" src="https://github.com/user-attachments/assets/d6e6e976-4e63-4830-a63f-cbb756e05da9" />
 
 ## How to Use
 1. Upload the code to Arduino Leonardo
@@ -128,6 +129,6 @@ redState = false;
 }
 ```
 ## Media
-![Project pic!!](controllerPic.jpeg)
+<img width="1600" height="1200" alt="one handed video game controller" src="https://github.com/user-attachments/assets/d8f6c4d4-eecf-4659-99d6-1794210594e0" />
 ## Demo
 [Watch live Demo on YouTube!!](https://www.youtube.com/shorts/mtXVW7fpkCw)
