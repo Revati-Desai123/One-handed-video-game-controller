@@ -128,6 +128,6 @@ redState = false;
 }
 
 ## Media
-![Project pic!!](One-handed video game controller.jpeg)
+![Project pic!!](one handed video game controller.jpeg)
 ## Demo
 [Watch live Demo on YouTube!!](https://www.youtube.com/shorts/mtXVW7fpkCw)
