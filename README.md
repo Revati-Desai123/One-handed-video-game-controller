@@ -26,7 +26,7 @@ and works as a plug-and-play HID device — no drivers needed!!
 
 ## Code
 Built using Arduino IDE with Keyboard.h and Mouse.h libraries
-
+```cpp
 #include <Keyboard.h>
 #include <Mouse.h>
 
@@ -126,7 +126,7 @@ redState = false;
   // The following delay of 1000ms is only for debugging reasons (it's easier to follow the values on the serial monitor)
   delay(5); // Probably not needed for most applications
 }
-
+```
 ## Media
 ![Project pic!!](controller_pic.jpeg)
 ## Demo
