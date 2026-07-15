@@ -128,7 +128,10 @@ redState = false;
   delay(5); // Probably not needed for most applications
 }
 ```
-## Media
-<img width="1600" height="1200" alt="one handed video game controller" src="https://github.com/user-attachments/assets/d8f6c4d4-eecf-4659-99d6-1794210594e0" />
+
 ## Demo
 [Watch live Demo on YouTube!!](https://www.youtube.com/shorts/mtXVW7fpkCw)
+
+## Media
+<img width="1600" height="1200" alt="one handed video game controller" src="https://github.com/user-attachments/assets/d8f6c4d4-eecf-4659-99d6-1794210594e0" />
+
